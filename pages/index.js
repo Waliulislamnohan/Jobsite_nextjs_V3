@@ -7,7 +7,7 @@ export default function Home() {
 			<Head>
 				<title>Dashboard</title>
 				<meta
-					name="description"
+					name="Dashboard"
 					content="a nextjs job site "
 				/>
 				<link rel="icon" href="/favicon.ico" />
